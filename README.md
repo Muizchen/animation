@@ -1,3 +1,5 @@
 # animation
+Collection of animations.
 
-File altered from git.
+### File altered from git.
+
